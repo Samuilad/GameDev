@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/PlayerHUD.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SpongebobDead.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/PlanktonAttack.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/PlanktonSplat.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/PlanktonAttack.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/PlanktonSplat.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/PlanktonAttack_Mat.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/PlanktonSplat_Mat.uasset",
+				"D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy1.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_projectile1.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/planktonattack__2_.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/KrabbyPatty.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Bubble.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/BubbleBlower-modified.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/planktonattack-modified.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Bamboo.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/BambooRed.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/BambooRed_Mat.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/OtherBamboo.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/squidwardhouse.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Yellowbamboo.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/PlanktonSplat.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/PlanktonAttack.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HUD.uasset",
+				"C:/Users/Samuil/Desktop/GameDev/Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/PlayerScore.uasset"
+			]
+		}
+	]
+}
